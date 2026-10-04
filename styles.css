@@ -1,6 +1,7 @@
 /* Echo — site styles. One accent (the logo's yellow), system type, no trackers, no external requests. */
 
 :root {
+  color-scheme: light;
   --ink: #17222d;
   --ink-soft: #5a6b7a;
   --paper: #ffffff;
